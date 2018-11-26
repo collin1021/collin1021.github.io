@@ -15,7 +15,7 @@ Causality and Experiments
 
 *"These problems are, and will probably ever remain, among the inscrutable
 secrets of nature. They belong to a class of questions radically inaccessible to
-the human intelligence."* â€”The Times of London, September 1849, on how cholera
+the human intelligence."* —The Times of London, September 1849, on how cholera
 is contracted and spread
 
 Does the death penalty have a deterrent effect? Is chocolate good for you? What
@@ -38,7 +38,7 @@ treatment would be eating chocolate, and the outcome might be a measure of blood
 pressure. But individuals in observational studies need not be people. In a
 study of whether the death penalty has a deterrent effect, the individuals could
 be the 50 states of the union. A state law allowing the death penalty would be
-the treatment, and an outcome could be the stateâ€™s murder rate.
+the treatment, and an outcome could be the state’s murder rate.
 
 The fundamental question is whether the treatment has an effect on the outcome.
 Any relation between the treatment and the outcome is called an *association*.

@@ -1,13 +1,25 @@
+---
+redirect_from:
+  - "/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump"
+title: 'John Snow and the Broad Street Pump'
+prev_page:
+  url: /02/causality-and-experiments
+  title: 'Causality and Experiments'
+next_page:
+  url: /02/2/snow-s-grand-experiment
+  title: 'Snowís ìGrand Experimentî'
+comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
+---
 Observation and Visualization: John Snow and the Broad Street Pump
 ------------------------------------------------------------------
 
 One of the earliest examples of astute observation eventually leading to the
 establishment of causality dates back more than 150 years. To get your mind into
-the right timeframe, try to imagine London in the 1850‚Äôs. It was the world‚Äôs
+the right timeframe, try to imagine London in the 1850ís. It was the worldís
 wealthiest city but many of its people were desperately poor. Charles Dickens,
 then at the height of his fame, was writing about their plight. Disease was rife
 in the poorer parts of the city, and cholera was among the most feared. It was
-not yet known that germs cause disease; the leading theory was that ‚Äúmiasmas‚Äù
+not yet known that germs cause disease; the leading theory was that ìmiasmasî
 were the main culprit. Miasmas manifested themselves as bad smells, and were
 thought to be invisible poisonous particles arising out of decaying matter.
 Parts of London did smell very bad, especially in hot weather. To protect
@@ -21,7 +33,7 @@ two of contracting it, hundreds could die in a week, and the total death toll in
 a single wave could reach tens of thousands. Snow was skeptical of the miasma
 theory. He had noticed that while entire households were wiped out by cholera,
 the people in neighboring houses sometimes remained completely unaffected. As
-they were breathing the same air‚Äîand miasmas‚Äîas their neighbors, there was no
+they were breathing the same airóand miasmasóas their neighbors, there was no
 compelling association between bad smells and the incidence of cholera.
 
 Snow had also noticed that the onset of the disease almost always involved
@@ -34,10 +46,10 @@ London. As the deaths mounted, Snow recorded them diligently, using a method
 that went on to become standard in the study of how diseases spread: *he drew a
 map*. On a street map of the district, he recorded the location of each death.
 
-Here is Snow‚Äôs original map. Each black bar represents one death. The black
+Here is Snowís original map. Each black bar represents one death. The black
 discs mark the locations of water pumps. The map displays a striking
-revelation‚Äìthe deaths are roughly clustered around the Broad Street pump.
-![Snow‚Äôs Cholera Map](../../../images/snow_map.jpg)
+revelationñthe deaths are roughly clustered around the Broad Street pump.
+![Snowís Cholera Map](../../../images/snow_map.jpg)
 
 Snow studied his map carefully and investigated the apparent anomalies. All of
 them implicated the Broad Street pump. For example:
@@ -50,9 +62,9 @@ them implicated the Broad Street pump. For example:
   they wanted water, the brewery had its own well.
 - There were scattered deaths in houses several blocks away from the Broad
   Street pump. Those were children who drank from the Broad Street pump on their
-  way to school. The pump‚Äôs water was known to be cool and refreshing.
+  way to school. The pumpís water was known to be cool and refreshing.
 
-The final piece of evidence in support of Snow‚Äôs theory was provided by two
+The final piece of evidence in support of Snowís theory was provided by two
 isolated deaths in the leafy and genteel Hampstead area, quite far from Soho.
 Snow was puzzled by these until he learned that the deceased were Mrs. Susannah
 Eley, who had once lived in Broad Street, and her niece. Mrs. Eley had water
@@ -60,7 +72,7 @@ from the Broad Street pump delivered to her in Hampstead every day. She liked
 its taste.
 
 Later it was discovered that a cesspit that was just a few feet away from the
-well of the Broad Street pump had been leaking into the well. Thus the pump‚Äôs
+well of the Broad Street pump had been leaking into the well. Thus the pumpís
 water was contaminated by sewage from the houses of cholera victims.
 
 Snow used his map to convince local authorities to remove the handle of the
@@ -71,9 +83,9 @@ future waves of the disease.
 The removal of the Broad Street pump handle has become the stuff of legend. At
 the Centers for Disease Control (CDC) in Atlanta, when scientists look for
 simple answers to questions about epidemics, they sometimes ask each other,
-‚ÄúWhere is the handle to this pump?‚Äù
+ìWhere is the handle to this pump?î
 
-Snow‚Äôs map is one of the earliest and most powerful uses of data visualization.
+Snowís map is one of the earliest and most powerful uses of data visualization.
 Disease maps of various kinds are now a standard tool for tracking epidemics.
 
 **Towards Causality**
@@ -89,7 +101,7 @@ outcome. They compare the outcomes of a group of individuals who got the
 treatment (the *treatment group*) to the outcomes of a group who did not (the
 *control group*). For example, researchers today might compare the average
 murder rate in states that have the death penalty with the average murder rate
-in states that don‚Äôt.
+in states that donít.
 
 If the results are different, that is evidence for an association. To determine
 causation, however, even more care is needed.
