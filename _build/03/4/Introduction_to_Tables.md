@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/03/4/introduction-to-tables"
-interact_link: content/C:\Users\Collin\Downloads\jupyter-book-master\jupyter-book-master\content\03/4/Introduction_to_Tables.ipynb
+interact_link: content/D:\School_Stuff\Research_stuff\Jupyter\collin1021.github.io\content\03/4/Introduction_to_Tables.ipynb
 title: 'Introduction to Tables'
 prev_page:
   url: /03/3/Calls

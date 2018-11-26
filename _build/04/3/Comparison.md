@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/04/3/comparison"
-interact_link: content/C:\Users\Collin\Downloads\jupyter-book-master\jupyter-book-master\content\04/3/Comparison.ipynb
+interact_link: content/D:\School_Stuff\Research_stuff\Jupyter\collin1021.github.io\content\04/3/Comparison.ipynb
 title: 'Comparisons'
 prev_page:
   url: /04/2/Strings

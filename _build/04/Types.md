@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/04/types"
-interact_link: content/C:\Users\Collin\Downloads\jupyter-book-master\jupyter-book-master\content\04/Types.ipynb
+interact_link: content/D:\School_Stuff\Research_stuff\Jupyter\collin1021.github.io\content\04/Types.ipynb
 title: 'Data Types'
 prev_page:
   url: /03/4/Introduction_to_Tables

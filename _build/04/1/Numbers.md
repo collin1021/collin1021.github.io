@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/04/1/numbers"
-interact_link: content/C:\Users\Collin\Downloads\jupyter-book-master\jupyter-book-master\content\04/1/Numbers.ipynb
+interact_link: content/D:\School_Stuff\Research_stuff\Jupyter\collin1021.github.io\content\04/1/Numbers.ipynb
 title: 'Numbers'
 prev_page:
   url: /04/Types
