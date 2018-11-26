@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/features/notebooks"
-interact_link: content/features/notebooks.ipynb
+interact_link: content/C:\Users\Collin\Downloads\jupyter-book-master\jupyter-book-master\content\features/notebooks.ipynb
 title: 'Jupyter notebooks'
 prev_page:
   url: /features/markdown
@@ -85,7 +85,7 @@ ax.legend(custom_lines, ['Cold', 'Medium', 'Hot']);
 
 
 
-![png](../images/features/notebooks_2_0.png)
+![png](C%3A/Users/Collin/Downloads/jupyter-book-master/jupyter-book-master/_build/images/features/notebooks_2_0.png)
 
 
 Note that the image above is captured and displayed by Jekyll.
@@ -105,7 +105,7 @@ which you can [see in the original notebook](https://github.com/choldgraf/textbo
 
 
 
-![png](../images/features/notebooks_6_0.png)
+![png](C%3A/Users/Collin/Downloads/jupyter-book-master/jupyter-book-master/_build/images/features/notebooks_6_0.png)
 
 
 And here we'll *only* display a Pandas DataFrame. Again, this was generated with Python code

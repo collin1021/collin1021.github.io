@@ -4,7 +4,7 @@ redirect_from:
 title: 'Establishing Causality'
 prev_page:
   url: /02/2/snow-s-grand-experiment
-  title: 'Snow‚Äôs ‚ÄúGrand Experiment‚Äù'
+  title: 'Snowís ìGrand Experimentî'
 next_page:
   url: /02/4/randomization
   title: 'Randomization'
@@ -15,12 +15,12 @@ Establishing Causality
 
 In the language developed earlier in the section, you can think of the people in
 the S&V houses as the treatment group, and those in the Lambeth houses at the
-control group. A crucial element in Snow‚Äôs analysis was that the people in the
+control group. A crucial element in Snowís analysis was that the people in the
 two groups were comparable to each other, apart from the treatment.
 
 In order to establish whether it was the water supply that was causing cholera,
 Snow had to compare two groups that were similar to each other in all but one
-aspect‚Äìtheir water supply. Only then would he be able to ascribe the differences
+aspectñtheir water supply. Only then would he be able to ascribe the differences
 in their outcomes to the water supply. If the two groups had been different in
 some other way as well, it would have been difficult to point the finger at the
 water supply as the source of the disease.  For example, if the treatment group
@@ -29,7 +29,7 @@ between the outcomes in the two groups could have been due to the water supply,
 or to factory work, or both, or to any other characteristic that made the groups
 different from each other. The final picture would have been much more fuzzy.
 
-Snow‚Äôs brilliance lay in identifying two groups that would make his comparison
+Snowís brilliance lay in identifying two groups that would make his comparison
 clear. He had set out to establish a causal relation between contaminated water
 and cholera infection, and to a great extent he succeeded, even though the
 miasmatists ignored and even ridiculed him. Of course, Snow did not understand
@@ -39,9 +39,9 @@ the bacterium that enters the human small intestine and causes cholera.
 
 In fact the *Vibrio cholerae* had been identified in 1854 by Filippo Pacini in
 Italy, just about when Snow was analyzing his data in London. Because of the
-dominance of the miasmatists in Italy, Pacini‚Äôs discovery languished unknown.
-But by the end of the 1800‚Äôs, the miasma brigade was in retreat. Subsequent
-history has vindicated Pacini and John Snow. Snow‚Äôs methods led to the
+dominance of the miasmatists in Italy, Paciniís discovery languished unknown.
+But by the end of the 1800ís, the miasma brigade was in retreat. Subsequent
+history has vindicated Pacini and John Snow. Snowís methods led to the
 development of the field of *epidemiology*, which is the study of the spread of
 diseases.
 
@@ -57,10 +57,10 @@ An underlying difference between the two groups (other than the treatment) is
 called a *confounding factor*, because it might confound you (that is, mess you
 up) when you try to reach a conclusion.
 
-**Example: Coffee and lung cancer.** Studies in the 1960‚Äôs showed that coffee
+**Example: Coffee and lung cancer.** Studies in the 1960ís showed that coffee
 drinkers had higher rates of lung cancer than those who did not drink coffee.
 Because of this, some people identified coffee as a cause of lung cancer. But
-coffee does not cause lung cancer. The analysis contained a confounding factor ‚Äì
+coffee does not cause lung cancer. The analysis contained a confounding factor ñ
 smoking. In those days, coffee drinkers were also likely to have been smokers,
 and smoking does cause lung cancer. Coffee drinking was associated with lung
 cancer, but it did not cause the disease.

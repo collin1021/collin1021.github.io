@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/01/3/plotting-the-classics"
-interact_link: content/01/3/Plotting_the_Classics.ipynb
+interact_link: content/C:\Users\Collin\Downloads\jupyter-book-master\jupyter-book-master\content\01/3/Plotting_the_Classics.ipynb
 title: 'Plotting the Classics'
 prev_page:
   url: /01/2/why-data-science

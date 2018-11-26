@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/03/2/names"
-interact_link: content/03/2/Names.ipynb
+interact_link: content/C:\Users\Collin\Downloads\jupyter-book-master\jupyter-book-master\content\03/2/Names.ipynb
 title: 'Names'
 prev_page:
   url: /03/1/Expressions
