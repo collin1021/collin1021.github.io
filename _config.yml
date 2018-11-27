@@ -96,5 +96,3 @@ plugins:
   - jekyll-redirect-from
 
 theme: jekyll-theme-slate
-
-encoding: UTF-8
