@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/03/4/introduction-to-tables"
-interact_link: content/D:\School_Stuff\Research_stuff\Jupyter\collin1021.github.io\content\03/4/Introduction_to_Tables.ipynb
+interact_link: content/03/4/Introduction_to_Tables.ipynb
 title: 'Introduction to Tables'
 prev_page:
   url: /03/3/Calls
@@ -790,7 +790,7 @@ nba.sort('SALARY')
 
 These figures are somewhat difficult to compare as some of these players changed teams during the season and received salaries from more than one team; only the salary from the last team appears in the table.  
 
-The CNN report is about the other end of the salary scale – the players who are among the highest paid in the world. To identify these players we can sort in descending order of salary and look at the top few rows.
+The CNN report is about the other end of the salary scale â€“ the players who are among the highest paid in the world. To identify these players we can sort in descending order of salary and look at the top few rows.
 
 
 

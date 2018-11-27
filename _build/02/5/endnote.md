@@ -15,20 +15,20 @@ Endnote
 
 In the terminology of that we have developed, John Snow conducted an
 observational study, not a randomized experiment. But he called his study a
-ìgrand experimentî because, as he wrote, ìNo fewer than three hundred thousand
-people Ö were divided into two groups without their choice, and in most cases,
-without their knowledge Öî
+‚Äúgrand experiment‚Äù because, as he wrote, ‚ÄúNo fewer than three hundred thousand
+people ‚Ä¶ were divided into two groups without their choice, and in most cases,
+without their knowledge ‚Ä¶‚Äù
 
-Studies such as Snowís are sometimes called ìnatural experiments.î However, true
+Studies such as Snow‚Äôs are sometimes called ‚Äúnatural experiments.‚Äù However, true
 randomization does not simply mean that the treatment and control groups are
-selected ìwithout their choice.î
+selected ‚Äúwithout their choice.‚Äù
 
 The method of randomization can be as simple as tossing a coin. It may also be
 quite a bit more complex. But every method of randomization consists of a
 sequence of carefully defined steps that allow chances to be specified
 mathematically. This has two important consequences.
 
-1. It allows us to accountñmathematicallyñfor the possibility that randomization
+1. It allows us to account‚Äìmathematically‚Äìfor the possibility that randomization
    produces treatment and control groups that are quite different from each
    other.
 
@@ -73,13 +73,13 @@ conclusions about causality based on an observational study.
 2. Florence Nightingale, the originator of modern nursing practices and famous
    for her work in the Crimean War, was a die-hard miasmatist. She had no time
    for theories about contagion and germs, and was not one for mincing her
-   words. ìThere is no end to the absurdities connected with this doctrine,î she
-   said. ìSuffice it to say that in the ordinary sense of the word, there is no
+   words. ‚ÄúThere is no end to the absurdities connected with this doctrine,‚Äù she
+   said. ‚ÄúSuffice it to say that in the ordinary sense of the word, there is no
    proof such as would be admitted in any scientific enquiry that there is any
-   such thing as contagion.î
+   such thing as contagion.‚Äù
 
-3. A later RCT established that the conditions on which PROGRESA insisted ñ
-   children going to school, preventive health care ñ were not necessary to
+3. A later RCT established that the conditions on which PROGRESA insisted ‚Äì
+   children going to school, preventive health care ‚Äì were not necessary to
    achieve increased enrollment. Just the financial boost of the welfare
    payments was sufficient.
 

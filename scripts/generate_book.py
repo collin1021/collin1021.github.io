@@ -223,7 +223,7 @@ if __name__ == '__main__':
         # Modify the generated Markdown to work with Jekyll
 
         # Clean markdown for Jekyll quirks (e.g. extra escape characters)
-        with open(path_new_file, 'r', encoding='utf-8', errors='ignore') as ff:
+        with open(path_new_file, 'r') as ff:
             lines = ff.readlines()
         lines = _clean_lines(lines, path_new_file)
 

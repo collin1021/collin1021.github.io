@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/03/3/calls"
-interact_link: content/D:\School_Stuff\Research_stuff\Jupyter\collin1021.github.io\content\03/3/Calls.ipynb
+interact_link: content/03/3/Calls.ipynb
 title: 'Call Expressions'
 prev_page:
   url: /03/2/Names

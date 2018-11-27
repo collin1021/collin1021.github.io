@@ -6,8 +6,8 @@ prev_page:
   url: /guide/01_overview
   title: 'Guide'
 next_page:
-  url: /guide/03_prepare
-  title: 'Prepare your book'
+  url: /guide/03_configure
+  title: 'Configuration'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 This page should get you set up with the software and code needed to build

@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/03/1/expressions"
-interact_link: content/D:\School_Stuff\Research_stuff\Jupyter\collin1021.github.io\content\03/1/Expressions.ipynb
+interact_link: content/03/1/Expressions.ipynb
 title: 'Expressions'
 prev_page:
   url: /03/programming-in-python

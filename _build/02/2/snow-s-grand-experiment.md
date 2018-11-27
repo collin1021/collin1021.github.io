@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/02/2/snow-s-grand-experiment"
-title: 'Snowís ìGrand Experimentî'
+title: 'Snow‚Äôs ‚ÄúGrand Experiment‚Äù'
 prev_page:
   url: /02/1/observation-and-visualization-john-snow-and-the-broad-street-pump
   title: 'John Snow and the Broad Street Pump'
@@ -10,7 +10,7 @@ next_page:
   title: 'Establishing Causality'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-Snowís ìGrand Experimentî
+Snow‚Äôs ‚ÄúGrand Experiment‚Äù
 -------------------------
 
 Encouraged by what he had learned in Soho, Snow completed a more thorough
@@ -22,20 +22,20 @@ River Thames. Its water was relatively clean. But the Southwark and Vauxhall
 contaminated.
 
 The map below shows the areas served by the two companies. Snow honed in on the region where the two service areas overlap.
-![Snowís Other Map](../../../images/snow_map2.jpg)
+![Snow‚Äôs Other Map](../../images/snow_map2.jpg)
 
 Snow noticed that there was no systematic difference between the people who were
-supplied by S&V and those supplied by Lambeth. ìEach company supplies both rich
+supplied by S&V and those supplied by Lambeth. ‚ÄúEach company supplies both rich
 and poor, both large houses and small; there is no difference either in the
 condition or occupation of the persons receiving the water of the different
-Companies Ö there is no difference whatever in the houses or the people
+Companies ‚Ä¶ there is no difference whatever in the houses or the people
 receiving the supply of the two Water Companies, or in any of the physical
-conditions with which they are surrounded Öî
+conditions with which they are surrounded ‚Ä¶‚Äù
 
-The only difference was in the water supply, ìone group being supplied with
+The only difference was in the water supply, ‚Äúone group being supplied with
 water containing the sewage of London, and amongst it, whatever might have come
 from the cholera patients, the other group having water quite free from
-impurity.î
+impurity.‚Äù
 
 Confident that he would be able to arrive at a clear conclusion, Snow summarized
 his data in the table below.
