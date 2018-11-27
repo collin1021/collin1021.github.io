@@ -22,7 +22,7 @@ email: samlau95@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is an example book built with Jupyter Books.
 
-baseurl: "/jupyter-book" # the subpath of your site, e.g. /blog
+baseurl: "/_build" # the subpath of your site, e.g. /blog
 
 #######################################################################################
 # Jupyter Book settings
