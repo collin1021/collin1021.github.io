@@ -17,7 +17,7 @@ content with your own, and have a Jupyter-based textbook ready to go shortly!
 
 Here are a few links of interest:
 
-* **[A demo of the hosted textbook](http://collin1021.github.io/intro.md )**
+* **[A demo of the hosted textbook](http://collin1021.github.io/intro )**
 * **[A short guide to deploying your own textbook](content/guide/01_overview)**
 * **[The markdown version of the guide in this repo](content/guide/01_overview)**
 
